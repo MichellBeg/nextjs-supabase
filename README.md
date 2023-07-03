@@ -1,3 +1,5 @@
+Lerning https://www.udemy.com/course/nextjs-supabase-app-directory/ lecture.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Settings
